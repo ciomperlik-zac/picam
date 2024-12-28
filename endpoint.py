@@ -1,5 +1,4 @@
 import socket
-import os
 
 ip = socket.gethostbyname(socket.gethostname())
 
@@ -10,7 +9,7 @@ server.bind((ip, 11000))
 server.listen()
 
 def callback(msg):
-    os.system("rundll32.exe user32.dll,LockWorkStation")
+    pass
 
 while True:
     client, addr = server.accept()

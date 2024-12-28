@@ -26,13 +26,13 @@ MD, mdschedule, and capture also have their respective buttons within the interf
 
 This project was designed specifically for the Raspberry Pi. If you want to use it on another platform, all you'd really need to change is the methods for capturing images and videos. I'd recomend using a library like opencv-python.
 
-### 1. Create a Discord server.
+### 1. Create a Discord server
 - Add the following text channels:
   - interface
   - commands
   - alerts
 
-### 2. Create a Discord bot.
+### 2. Create a Discord bot
 - Open [Discord Developer Portal](https://discord.com/developers).
 - Click new application.
 - Go to the "Bot" tab, scroll down to Privileged Gateway Intents, and check all three.
@@ -47,4 +47,6 @@ This project was designed specifically for the Raspberry Pi. If you want to use 
 - Run `source example/bin/activate` to enter the virtual environment.
 - Run `pip install discord.py, opencv-python, picamera2` to install required packages.
 
-### 2. Download the Bot from Github.
+### 2. Download the Bot from Github
+- Download the "picam.py" file.
+- 

@@ -63,7 +63,7 @@ This project was designed specifically for the Raspberry Pi. If you want to use 
 
 ## Endpoint server
 
-This server can run on any computer that supports Python. When you connect using the /endpoint command, the server will recieve motion alerts and execute any code you want. For example, you could make your PC lock when motion is detected. Note that the server must be on the same local network as the bot.
+This server can run on any computer that supports Python. When you connect using the /endpoint command, the server will receive motion alerts and execute any code you want. For example, you could make your PC lock when motion is detected. Note that the server must be on the same local network as the bot.
 
 ### 1. Download the server
 - Download the "endpoint.py" file.

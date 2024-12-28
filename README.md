@@ -72,6 +72,6 @@ This server can run on any computer that supports Python. When you connect using
 - Anything you put in the "callback" function will be run when the server revieves an alert.
 
 ### 3. Run and connect to the server
-- Run the server and connect using the /endpoint command and enter the IP displayed in the server window.
+- Run the file and connect to the server using the /endpoint command. When prompted, enter the IP displayed in the server window.
 
 ### 4. All done!

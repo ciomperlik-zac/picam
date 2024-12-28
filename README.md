@@ -1,6 +1,6 @@
 # picam
 
-A simple Discord bot for motion detection.
+A simple implentation of motion detection using Discord as a frontend for alerts and configuration.
 
 ## Commands
 

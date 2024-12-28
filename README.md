@@ -55,8 +55,8 @@ This project was designed specifically for the Raspberry Pi. If you want to use 
 - Scroll down to the very bottom of the program where it says "Setup code".
 - Where the variable "interface_id" is defined, replace "None" with the id of your interface channel. To get the ID right click the channel and click Copy Channel ID.
 - Run the bot once, it should crash and that's fine. This step is to send a message in the interface channel to serve as the interface message.
-- Delete all code setup code within the comments.
-- Now scroll to the top and find the "discord_ids" list and enter all the respective IDs.
+- Delete all setup code within the comments.
+- Now scroll to the top, and enter all the IDs into the "discord_ids" dictionary.
 
 ### 5. Finish
 - Run the bot again and everything should work properly!

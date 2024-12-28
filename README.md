@@ -69,7 +69,7 @@ This server can run on any computer that supports Python. When you connect using
 - Download the "endpoint.py" file.
 
 ### 2. Edit the callback function
-- Anything you put in the "callback" function will be run when the server revieves an alert.
+- Anything you put in the "callback" function will be run when the server receives an alert.
 
 ### 3. Run and connect to the server
 - Run the file and connect to the server using the /endpoint command. When prompted, enter the IP displayed in the server window.

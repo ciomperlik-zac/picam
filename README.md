@@ -54,7 +54,7 @@ This project was designed specifically for the Raspberry Pi. If you want to use 
 - At the very top of the program where the variable "token" is defined, replace "Your key" with the API key from discord.
 - Scroll down to the very bottom of the program where it says "Setup code".
 - Where the variable "interface_id" is defined, replace "None" with the id of your interface channel. To get the ID right click the channel and click Copy Channel ID.
-- Run the bot once, it should crash and that's fine.
+- Run the bot once, it should crash and that's fine. This step is to send a message in the interface channel to serve as the interface message.
 - Now scroll to the top and find the "discord_ids" list and enter all the respective IDs.
 
 ### 5. Finish

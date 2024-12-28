@@ -28,6 +28,7 @@ This project was designed specifically for the Raspberry Pi. If you want to use 
 
 ### 1. Create a virtual enviornment and install required packages
 - Run "python -m venv example" in the folder you want it created.
-- Run pip install 
+- Run "source example/bin/activate" to enter the virtual environment.
+- Run "pip install discord.py, opencv-python, picamera2"
 
 ### 2.

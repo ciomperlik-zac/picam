@@ -43,8 +43,8 @@ This project was designed specifically for the Raspberry Pi. If you want to use 
 
 ### 3. Create a virtual enviornment and install required packages
 - Open command prompt on your Raspberry Pi.
-- Run `python -m venv example` in the folder you want the virtual environment created.
-- Run `source example/bin/activate` to enter the virtual environment.
+- Run `python -m venv name-of-environment` in the folder you want the virtual environment created.
+- Run `source name-of-environment/bin/activate` to enter the virtual environment.
 - Run `pip install discord.py, opencv-python, picamera2` to install required packages.
 
 ### 4. Download and set up the Bot from Github

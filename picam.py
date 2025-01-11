@@ -20,8 +20,8 @@ discord_ids = {"server": None, "interface_ch": None, "alert_ch": None, "command_
 cam = Picamera2()
 cam.start()
 
-diff_thresh = 128
-motion_thresh = 512
+diff_thresh = 32
+motion_thresh = 1024
 
 vid_buffer = 10
 vid_cutoff = [0, 60]
